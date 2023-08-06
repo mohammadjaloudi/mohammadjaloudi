@@ -1,0 +1,77 @@
+#include <NewPing.h>      
+
+#define sonarNum 3
+
+#define pwm1 9
+#define pwm2 10
+
+#define in1 2
+#define in2 3
+#define in3 4
+#define in4 5
+
+#define maxdist 500
+
+NewPing sonar[sonarNum]{
+  NewPing(6, 11, maxdist), 
+  NewPing(7, 12, maxdist),
+  NewPing(8, 13, maxdist)
+};
+
+void setup() {
+  pinMode(pwm1, OUTPUT);
+  pinMode(pwm2, OUTPUT);
+
+  pinMode(in1, OUTPUT);
+  pinMode(in2, OUTPUT);
+  pinMode(in3, OUTPUT);
+  pinMode(in4, OUTPUT);
+}
+
+int cnt = 0 ;
+int ans = 0 ;
+int fdist = sonar[0].ping_cm();
+
+void loop(){
+  int fdis = sonar[0].ping_cm();
+  delay(10);
+  int rdis = sonar[1].ping_cm();
+  delay(10);
+  int ldis = sonar[2].ping_cm();
+  delay(10);
+  analogWrite(pwm1, 50);
+  analogWrite(pwm2, 255);
+  if (ans == 12 and fdis - 10 < fdist < fdis + 10){
+    digitalWrite(in1, LOW);
+    digitalWrite(in2, LOW);
+    digitalWrite(in3, LOW);
+    digitalWrite(in4, LOW);
+    exit(0);
+  }
+  if (fdis > 40){
+    digitalWrite(in1, HIGH);
+    digitalWrite(in2, LOW);
+    digitalWrite(in3, LOW);
+    digitalWrite(in4, LOW);
+    if(cnt>1 ){
+      ans++;
+      cnt = 0;
+    }
+  }
+  else{
+  if(ldis < rdis){
+    digitalWrite(in1, HIGH);
+    digitalWrite(in2, LOW);
+    digitalWrite(in3, LOW);
+    digitalWrite(in4, HIGH);
+    cnt++;
+  }
+  if(rdis < ldis){
+    digitalWrite(in1, HIGH);
+    digitalWrite(in2, LOW);
+    digitalWrite(in3, HIGH);
+    digitalWrite(in4, LOW);
+    cnt++;
+  }
+  }
+}
