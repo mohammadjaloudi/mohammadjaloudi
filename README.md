@@ -27,3 +27,4 @@
 - English
 
 # Digital Marketing
+- Experienced in Facebook and Instagram marketing strategies
