@@ -98,7 +98,7 @@ Join me as I embark on these exciting paths, and let's connect over shared inter
 
 ## 📱 Social Media and Communication
 
-- [Discord](https://discord.com/) **Username: publicchairr#yourDiscrimNumber**
+- [Discord](https://discord.com/) **Username: publicchairr**
 - [Facebook](https://www.facebook.com/Mohammad.Jaloudi.999/) 📘
 - [LinkedIn](https://www.linkedin.com/in/mohammad-jaloudi-8176a5299/) 🔗
 - [Chess.com](https://www.chess.com/member/ayanokoji-kiotaka) ♟️
