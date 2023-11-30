@@ -74,6 +74,8 @@ I take pride in my ability to adapt to diverse external environments. Whether it
 
 4. **[RockPaperScissors.github.io](https://github.com/mohammadjaloudi/RockPaperScissors.github.io)**
    - Implemented a Rock, Paper, Scissors game, showcasing adaptability and creativity in game development.
+5. **[ProjectsWithCpp](https://github.com/mohammadjaloudi/ProjectsWithCpp)**
+   - Added various C++ projects, demonstrating adaptability and problem-solving skills in software development.
 
 ## 🎨 Soft Skills
 
