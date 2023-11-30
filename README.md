@@ -56,32 +56,25 @@
 
 I take pride in my ability to adapt to diverse external environments. Whether it's embracing new technologies, navigating changes in project requirements, or collaborating with different teams, I excel in staying agile and thriving in dynamic situations.
 
-### Key Points:
+### Examples of Adaptability in Projects
 
-1. **Technological Adaptability:**
-   - Quickly learning and adopting new programming languages and tools as needed for various projects.
+#### [WRO-FUTURE-ENGINEERS-2023](https://github.com/mohammadjaloudi/WRO-FUTURE-ENGINEERS-2023)
 
-2. **Project Flexibility:**
-   - Successfully navigating changes in project scopes and requirements, ensuring smooth transitions and delivering high-quality results.
+- Successfully adapted to changing project requirements, demonstrating flexibility in design and functionality to meet evolving needs.
 
-3. **Collaboration Across Teams:**
-   - Effectively collaborating with diverse teams, understanding and adapting to different working styles and methodologies.
+#### [simpleTimer.github.io](https://github.com/mohammadjaloudi/simpleTimer.github.io)
 
-4. **Problem Solving in Evolving Situations:**
-   - Demonstrating strong problem-solving skills in rapidly changing environments, ensuring optimal outcomes under evolving circumstances.
+- Embraced new technologies during the project lifecycle, enhancing the timer app's features and staying ahead of industry trends.
 
-## Examples of Adaptability
+#### [calculator.github.io](https://github.com/mohammadjaloudi/calculator.github.io)
 
-### [Project Name 1](https://github.com/yourusername/project1)
+- Adapted to user feedback by implementing new features, showcasing a responsive approach to user needs and preferences.
 
-- Adapted to changing project requirements midway through development, showcasing flexibility and delivering a successful outcome.
+Feel free to explore my [GitHub Profile](https://github.com/mohammadjaloudi) for more examples of adaptability and contributions across diverse projects.
 
-### [Project Name 2](https://github.com/yourusername/project2)
+## Social Media
 
-- Embraced new technologies during the project lifecycle, enhancing the project's capabilities and staying ahead of industry trends.
-
-## Continuous Learning
-
-I actively seek opportunities for learning and improvement, staying abreast of industry trends and developments to adapt and grow in my skills and knowledge.
-
-Feel free to explore my [GitHub Profile](https://github.com/yourusername) for more insights into my adaptability and contributions across diverse projects.
+- [Facebook](https://www.facebook.com/Mohammad.Jaloudi.999/) 📘
+- [LinkedIn](https://www.linkedin.com/in/mohammad-jaloudi-8176a5299/) 🔗
+- [Chess.com](https://www.chess.com/member/ayanokoji-kiotaka) ♟️
+- Gmail: 📧 mohammadjaloudi8@gmail.com
