@@ -40,10 +40,10 @@
 - 💻 Programming Club Leader in Python
 - 🚀 Active problem solver on Codeforces
 - 📊 Proficient in Microsoft Word and Microsoft PowerPoint
-- 🏆 Winner in programming competitions, including WRO, مبرمجي المستقبل, and PCPC
+- 🏆 Winner in programming competitions, including WRO, مبرمجي المستقبل, PCPC, and ISEF Palestine
 - 🌍 Competed in national-level competitions in Palestine
 - 🤝 Strong leadership and teamwork skills
-- ♟️ Passionate about chess with a [Chess.com](https://www.chess.com/member/ayanokoji-kiotaka) profile
+- ♟️ Passionate about chess with a Chess.com profile
 
 ## Time Management
 
