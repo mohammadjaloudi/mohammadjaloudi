@@ -33,17 +33,19 @@
 - 🇬🇧 English
 - 🇫🇷 French (Currently studying)
 
-## Digital Marketing
-
-Experienced in Facebook and Instagram marketing strategies.
-
-## Work and Achievements
+## Skills and Achievements
 
 - 💻 Programming Club Leader in Python
 - 🚀 Active problem solver on [Codeforces](https://codeforces.com/profile/secret2023)
 - 📊 Proficient in Microsoft Word and Microsoft PowerPoint
 - 🏆 Winner in programming competitions, including WRO, مبرمجي المستقبل, and PCPC
 - 🌍 Competed in national-level competitions in Palestine
+- 🤝 Strong leadership and teamwork skills
+
+## Time Management
+
+- ⏰ Effective time management
+- 📅 Successfully balancing programming, designing, and academic commitments
 
 ## Education
 
