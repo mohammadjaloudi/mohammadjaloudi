@@ -72,6 +72,9 @@ I take pride in my ability to adapt to diverse external environments. Whether it
 3. **[calculator.github.io](https://github.com/mohammadjaloudi/calculator.github.io)**
    - Adapted to user feedback by implementing new features, showcasing a responsive approach to user needs and preferences.
 
+4. **[RockPaperScissors.github.io](https://github.com/mohammadjaloudi/RockPaperScissors.github.io)**
+   - Implemented a Rock, Paper, Scissors game, showcasing adaptability and creativity in game development.
+
 ## 🎨 Soft Skills
 
 In addition to my technical expertise, I bring a set of valuable soft skills to the table:
