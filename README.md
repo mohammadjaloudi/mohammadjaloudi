@@ -20,6 +20,8 @@
 ### PC:
 - 🖌️ Adobe Photoshop
 - ✒️ Adobe Illustrator
+- 🎞️ Beginner at Adobe Premiere Pro
+- 🎥 Beginner at Adobe After Effects
 
 ### Mobile:
 - 🖌️ Adobe Photoshop (for mobile)
