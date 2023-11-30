@@ -17,13 +17,13 @@
 
 ## Designing Apps
 
-### PC:
+**PC:**
 - 🖌️ Adobe Photoshop
 - ✒️ Adobe Illustrator
 - 🎞️ Beginner at Adobe Premiere Pro
 - 🎥 Beginner at Adobe After Effects
 
-### Mobile:
+**Mobile:**
 - 🖌️ Adobe Photoshop (for mobile)
 - 🎬 Kinemaster
 - 🎞️ Alight Motion
@@ -38,7 +38,7 @@
 ## Skills and Achievements
 
 - 💻 Programming Club Leader in Python
-- 🚀 Active problem solver on [Codeforces](https://codeforces.com/profile/secret2023)
+- 🚀 Active problem solver on Codeforces
 - 📊 Proficient in Microsoft Word and Microsoft PowerPoint
 - 🏆 Winner in programming competitions, including WRO, مبرمجي المستقبل, and PCPC
 - 🌍 Competed in national-level competitions in Palestine
@@ -52,23 +52,19 @@
 
 ## Adaptability
 
-### Adapting to External Environment
-
+**Adapting to External Environment:**
 I take pride in my ability to adapt to diverse external environments. Whether it's embracing new technologies, navigating changes in project requirements, or collaborating with different teams, I excel in staying agile and thriving in dynamic situations.
 
 ### Examples of Adaptability in Projects
 
-#### [WRO-FUTURE-ENGINEERS-2023](https://github.com/mohammadjaloudi/WRO-FUTURE-ENGINEERS-2023)
+1. **[WRO-FUTURE-ENGINEERS-2023](https://github.com/mohammadjaloudi/WRO-FUTURE-ENGINEERS-2023)**
+   - Successfully adapted to changing project requirements, demonstrating flexibility in design and functionality to meet evolving needs.
 
-- Successfully adapted to changing project requirements, demonstrating flexibility in design and functionality to meet evolving needs.
+2. **[simpleTimer.github.io](https://github.com/mohammadjaloudi/simpleTimer.github.io)**
+   - Embraced new technologies during the project lifecycle, enhancing the timer app's features and staying ahead of industry trends.
 
-#### [simpleTimer.github.io](https://github.com/mohammadjaloudi/simpleTimer.github.io)
-
-- Embraced new technologies during the project lifecycle, enhancing the timer app's features and staying ahead of industry trends.
-
-#### [calculator.github.io](https://github.com/mohammadjaloudi/calculator.github.io)
-
-- Adapted to user feedback by implementing new features, showcasing a responsive approach to user needs and preferences.
+3. **[calculator.github.io](https://github.com/mohammadjaloudi/calculator.github.io)**
+   - Adapted to user feedback by implementing new features, showcasing a responsive approach to user needs and preferences.
 
 Feel free to explore my [GitHub Profile](https://github.com/mohammadjaloudi) for more examples of adaptability and contributions across diverse projects.
 
