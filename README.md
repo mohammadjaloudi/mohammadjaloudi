@@ -1,5 +1,3 @@
-[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)
-
 # Mohammad Jaloudi
 
 ## 👨‍💻 About Me
