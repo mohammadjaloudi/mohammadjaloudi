@@ -68,9 +68,11 @@ I take pride in my ability to adapt to diverse external environments. Whether it
 
 Feel free to explore my [GitHub Profile](https://github.com/mohammadjaloudi) for more examples of adaptability and contributions across diverse projects.
 
-## Social Media
+## Social Media and Communication
 
+- [Discord](https://discord.com/) Username: publicchairr#yourDiscrimNumber
 - [Facebook](https://www.facebook.com/Mohammad.Jaloudi.999/) 📘
 - [LinkedIn](https://www.linkedin.com/in/mohammad-jaloudi-8176a5299/) 🔗
 - [Chess.com](https://www.chess.com/member/ayanokoji-kiotaka) ♟️
+- [Instagram](https://www.instagram.com/wwhite_room/) 📸
 - Gmail: 📧 mohammadjaloudi8@gmail.com
