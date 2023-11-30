@@ -41,11 +41,12 @@
 - 🏆 Winner in programming competitions, including WRO, مبرمجي المستقبل, and PCPC
 - 🌍 Competed in national-level competitions in Palestine
 - 🤝 Strong leadership and teamwork skills
+- ♟️ Passionate about chess with a [Chess.com](https://www.chess.com/member/ayanokoji-kiotaka) profile
 
 ## Time Management
 
 - ⏰ Effective time management
-- 📅 Successfully balancing programming, designing, and academic commitments
+- 📅 Successfully balancing programming, designing, academic commitments, and chess
 
 ## Education
 
