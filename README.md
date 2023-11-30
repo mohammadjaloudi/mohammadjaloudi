@@ -31,9 +31,9 @@
 **Mobile:**
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 - ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-61DAFB?style=flat&logo=adobe-lightroom&logoColor=white)
-- <img src="https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/kinemaster.jpeg" alt="Kinemaster" width="20" height="20" /> [Kinemaster](https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/kinemaster.jpeg)
-- <img src="https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/aligth%20motion.png" alt="Alight Motion" width="20" height="20" /> [Alight Motion](https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/aligth%20motion.png)
-- <img src="https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/capcut.png" alt="Capcut" width="20" height="20" /> [Capcut](https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/capcut.png)
+- <img src="https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/kinemaster.jpeg" alt="Kinemaster" width="20" height="20" /> Kinemaster
+- <img src="https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/aligth%20motion.png" alt="Alight Motion" width="20" height="20" /> Alight Motion
+- <img src="https://github.com/mohammadjaloudi/mohammadjaloudi/blob/main/capcut.png" alt="Capcut" width="20" height="20" /> Capcut
 
 ## 🌐 Languages
 
