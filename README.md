@@ -9,28 +9,28 @@
 ## 🛠️ Tech Stack
 
 - **Languages:**
-  - 🐍 Python
-  - 🔵 C/C++
-  - 🟨 JavaScript
-  - 🍊 HTML
-  - 🎨 CSS
-  - 🐘 PHP
-  - 🗃️ SQL
-  - 📄 NoSQL
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+  - ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
 
 ## 🎨 Designing Apps
 
 **PC:**
-- 🖌️ Adobe Photoshop
-- ✒️ Adobe Illustrator
-- 🎞️ Beginner at Adobe Premiere Pro
-- 🎥 Beginner at Adobe After Effects
+- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
 
 **Mobile:**
-- 🖌️ Adobe Photoshop (for mobile)
-- 🎬 Kinemaster
-- 🎞️ Alight Motion
-- 🎥 Capcut
+- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) (for mobile)
+- ![Kinemaster](https://img.shields.io/badge/Kinemaster-56A637?style=flat&logo=kinemaster&logoColor=white)
+- ![Alight Motion](https://img.shields.io/badge/Alight%20Motion-08A0E9?style=flat&logo=alight-motion&logoColor=white)
+- ![Capcut](https://img.shields.io/badge/Capcut-2C3E50?style=flat&logo=capcut&logoColor=white)
 
 ## 🌐 Languages
 
