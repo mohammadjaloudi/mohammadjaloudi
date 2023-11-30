@@ -30,6 +30,7 @@
 
 **Mobile:**
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) (for mobile)
+- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-61DAFB?style=flat&logo=adobe-lightroom&logoColor=white) (for mobile)
 - ![Kinemaster](https://img.shields.io/badge/Kinemaster-56A637?style=flat&logo=kinemaster&logoColor=white)
 - ![Alight Motion](https://img.shields.io/badge/Alight%20Motion-08A0E9?style=flat&logo=alight-motion&logoColor=white)
 - ![Capcut](https://img.shields.io/badge/Capcut-2C3E50?style=flat&logo=capcut&logoColor=white)
