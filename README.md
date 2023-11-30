@@ -24,13 +24,13 @@
 
 **PC:**
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) (beginner)
+- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 - ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white) (beginner)
 - ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white) (beginner)
 
 **Mobile:**
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) (for mobile)
-- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-61DAFB?style=flat&logo=adobe-lightroom&logoColor=white) (for mobile)
+- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-61DAFB?style=flat&logo=adobe-lightroom&logoColor=white)
 - ![Kinemaster](https://img.shields.io/badge/Kinemaster-56A637?style=flat&logo=kinemaster&logoColor=white)
 - ![Alight Motion](https://img.shields.io/badge/Alight%20Motion-08A0E9?style=flat&logo=alight-motion&logoColor=white)
 - ![Capcut](https://img.shields.io/badge/Capcut-2C3E50?style=flat&logo=capcut&logoColor=white)
