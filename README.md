@@ -20,7 +20,7 @@
   - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
   - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
-## 🎨 Designing Apps
+## 🎨 Designing Tools
 
 **PC:**
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
