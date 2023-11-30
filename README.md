@@ -31,6 +31,7 @@
 
 - 🌐 Arabic (Native)
 - 🇬🇧 English
+- 🇫🇷 French (Currently studying)
 
 ## Digital Marketing
 
