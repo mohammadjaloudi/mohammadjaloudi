@@ -17,6 +17,8 @@
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   - ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
+  - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
 ## 🎨 Designing Apps
 
