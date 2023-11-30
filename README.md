@@ -9,9 +9,9 @@
 ## 🛠️ Tech Stack
 
 - **Languages:**
-- ###Database, basic Android Apps, Hardware:
+- Database, basic Android Apps, Hardware:
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ###competitive programming:
+- competitive programming:
   - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 -Websites:
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
