@@ -44,7 +44,7 @@
 
 - 🌐 Arabic (Native)
 - 🇬🇧 English
-- 🇫🇷 French (Currently studying)
+- Spanish (Currently studying)
 
 ## 🏆 Skills and Achievements
 
