@@ -119,7 +119,7 @@ Join me as I embark on these exciting paths, and let's connect over shared inter
 - **Gmail:** 📧 mohammadjaloudi8@gmail.com
 - [freecodecamp](https://www.freecodecamp.org/fcc960edef3-9c6d-4bb3-925c-343a769de49f)
 - [Codeforces](https://codeforces.com/profile/knafa)
-
+- [Duolingo](https://www.duolingo.com/profile/mohammadjaloudi)
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=mohammadjaloudi&theme=green-nur&border_radius=6&exclude_days=Sun)](https://git.io/streak-stats)
