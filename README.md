@@ -121,7 +121,6 @@ Join me as I embark on these exciting paths, and let's connect over shared inter
 - [Codeforces](https://codeforces.com/profile/knafa)
 
 
-<div style="text-align: center;">
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=mohammadjaloudi&theme=green-nur&border_radius=6&exclude_days=Sun)](https://git.io/streak-stats)
-</div>
 
