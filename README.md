@@ -118,3 +118,4 @@ Join me as I embark on these exciting paths, and let's connect over shared inter
 - [Instagram](https://www.instagram.com/wwhite_room/) 📸
 - **Gmail:** 📧 mohammadjaloudi8@gmail.com
 - [freecodecamp](https://www.freecodecamp.org/fcc960edef3-9c6d-4bb3-925c-343a769de49f)
+- [Codeforces](https://codeforces.com/profile/knafa)
