@@ -122,5 +122,4 @@ Join me as I embark on these exciting paths, and let's connect over shared inter
 - [Duolingo](https://www.duolingo.com/profile/mohammadjaloudi)
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mohammadjaloudi&theme=green-nur&border_radius=6&exclude_days=Sun)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammadjaloudi&theme=whatsapp-dark&border_radius=16)](https://git.io/streak-stats)
