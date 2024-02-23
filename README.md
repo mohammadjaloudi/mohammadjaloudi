@@ -121,5 +121,3 @@ Join me as I embark on these exciting paths, and let's connect over shared inter
 - [Codeforces](https://codeforces.com/profile/knafa)
 - [Duolingo](https://www.duolingo.com/profile/mohammadjaloudi)
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammadjaloudi&theme=whatsapp-dark&border_radius=16)
